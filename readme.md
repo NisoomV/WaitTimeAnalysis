@@ -47,7 +47,7 @@ Efficient management of hospital resources is critical to delivering high-qualit
 1. Staffing Adjustments:
 
  - Reallocate or add medical staff during morning rush hours **(8 AM - 10 AM)** to meet patient demand. 
- - Refrain fromgiving **Dr. Anchor** clinic duty in the morning.
+ - Refrain from giving **Dr. Anchor** clinic duty in the morning.
  - Review lunch-hour staffing to ensure adequate coverage.
 
 2. Operational Insights:
