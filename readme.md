@@ -40,7 +40,7 @@ Efficient management of hospital resources is critical to delivering high-qualit
 
 ![Doctor](Doctor.png)
 
-**Finding: Dr. Anchor** takes significantly more time than other doctors. It is best to not give them clinic duty during the morning rush.
+**Finding: Anchor doctors** takes significantly more time than other doctors. It is best to not follow that practice during the morning rush.
 
 ## Executive Summary
 
