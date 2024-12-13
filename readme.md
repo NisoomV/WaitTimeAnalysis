@@ -8,7 +8,8 @@ Efficient management of hospital resources is critical to delivering high-qualit
 - Investigate the factors contributing to long wait times.
 - Develop insights to streamline patient flow and staffing.
 
-
+## Dashboard
+![Dashboard](HospitalDash.png)
 
 ## Key Insights
 
