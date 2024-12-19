@@ -39,6 +39,8 @@ Efficient management of hospital resources is critical to delivering high-qualit
 
 **Findings:** Increasing the number of medical staff during peak morning hours could reduce patient wait times and improve throughput.
 
+### Clinic Duties
+
 ![Doctor](Doctor.png)
 
 **Finding: Anchor doctors** takes significantly more time than other doctors. It is best to not follow that practice during the morning rush.
